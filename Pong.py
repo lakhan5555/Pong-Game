@@ -5,7 +5,7 @@ wn = turtle.Screen()
 wn.title("Pong by @RamLakhan")
 wn.bgcolor("black")
 wn.setup(width=800, height=600)
-wn.tracer(0)                        # stpos window from updating
+wn.tracer(0)                        # stops window from updating
 
 
 # Score
